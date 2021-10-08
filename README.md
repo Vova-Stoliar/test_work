@@ -1,1 +1,1 @@
-[Test task]:  https://vova-stoliar.github.io/test_work/
+[Test task](https://vova-stoliar.github.io/test_work/)

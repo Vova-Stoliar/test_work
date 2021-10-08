@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 import './App.scss';
 import { generateTable } from './table/table';
 import { addUsers } from './addUsers/addUsers';
