@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,aACE,YAAa,CACb,iCAAkC,CAClC,oBAAA,CAAA,uBAAA,CAAA,eAAgB","file":"main.ecb7ac78.chunk.css","sourcesContent":[".users {\n  padding: 0 40px;\n  &__form {\n    display: grid;\n    grid-template-columns: 200px 200px;\n    column-gap: 40px;\n  }\n}"]}
