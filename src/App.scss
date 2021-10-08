@@ -1,3 +1,8 @@
-.starter {
-  font-size: 18px;
+.users {
+  padding: 0 40px;
+  &__form {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    column-gap: 40px;
+  }
 }
